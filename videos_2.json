@@ -1,0 +1,41 @@
+{
+  "horizontal": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "企業ブランディングムービー(サンプル)",
+      "client": "ビジネス横動画"
+    },
+    {
+      "id": "9bZkp7q19f0",
+      "title": "YouTubeエンタメ企画(サンプル)",
+      "client": "YouTubeエンタメ"
+    },
+    {
+      "id": "aqz-KE-bpKQ",
+      "title": "サービス紹介ロングフォーム(サンプル)",
+      "client": "ビジネス横動画"
+    }
+  ],
+  "vertical": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "縦型ショート広告A(サンプル)",
+      "client": "ショート広告"
+    },
+    {
+      "id": "9bZkp7q19f0",
+      "title": "TikTokプロモーション(サンプル)",
+      "client": "TikTok"
+    },
+    {
+      "id": "aqz-KE-bpKQ",
+      "title": "Instagramリール(サンプル)",
+      "client": "Instagram"
+    },
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "縦型ショート広告B(サンプル)",
+      "client": "ショート広告"
+    }
+  ]
+}
